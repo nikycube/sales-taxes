@@ -1,0 +1,22 @@
+{
+  "categories_mappings" : [
+    {
+      "category": "books",
+      "keywords" : ["book"]
+    },
+    {
+      "category": "food",
+      "keywords" : ["chocolate", "chocolates"]
+    },
+    {
+      "category": "medical products",
+      "keywords" : ["pills"]
+    },
+    {
+      "category": "other",
+      "keywords" : ["perfume" , "music", "CD"]
+    }
+  ],
+  "base_tax_exceptions" : ["books", "food", "medical products"],
+  "import_tax_exceptions": []
+}
