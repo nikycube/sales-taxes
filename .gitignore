@@ -1,0 +1,11 @@
+# IntelliJ project files
+*.iml
+.idea/
+/out/
+
+bin
+target
+lib
+build
+.gradle/
+pom.xml.versionsBackup
